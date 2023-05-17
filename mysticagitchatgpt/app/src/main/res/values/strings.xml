@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">mysticagitchatgpt</string>
+    <string name="chatgpt_api_key">please_input</string>
 </resources>
